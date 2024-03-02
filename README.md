@@ -26,6 +26,9 @@ My name is Oleksii, and I'm currently seeking remote (the emphasis, of course, i
 - Job Board's
 
 ### Articles
+- [5 Time Management Strategies for Remote Software Engineers](https://x-team.com/blog/time-management-strategies/)
+- [3 Mistakes to Avoid If You Want to Get Hired Remotely](https://x-team.com/blog/mistakes-remote-developers/)
+- [6 Hacks for Finding Remote Jobs in 2024](https://hubstaff.com/blog/hacks-find-remote-jobs/)
 ### Video
 ### Books
 ### Social Media
