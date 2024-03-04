@@ -25,7 +25,3 @@ The highlighted article focuses on creating an effective resume with an emphasis
 11. **Age**: If age could be a barrier, it can be omitted.
 
 The general rule is that the resume should be clear and concise to maximize employer interest.
-
-### Example's
-
-- [Oleksii Bortnytskyi | Resume \ CV](https://bortnytskyi.notion.site/Frontend-Engineer-479f19611f6447fdb26d855ba9a99745)
