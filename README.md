@@ -28,7 +28,7 @@ My name is Oleksii, and I'm currently seeking remote (the emphasis, of course, i
 
 ### Articles
 
-- [5 Time Management Strategies for Remote Software Engineers](https://x-team.com/blog/time-management-strategies/)
+- [5 Time Management Strategies for Remote Software Engineers](./Articles/5-time-managment-strategies.md)
 - [3 Mistakes to Avoid If You Want to Get Hired Remotely](./Articles/3-mistakes-to-avoid.md)
 - [Checklist for writing a resume](./Articles/resume-creating-resume.md)
 
@@ -48,6 +48,8 @@ My name is Oleksii, and I'm currently seeking remote (the emphasis, of course, i
 
 ### Finance's
 
+- [Spain Net Salary Calculator](https://www.bancosantander.es/particulares/cuentas-tarjetas/cuentas-corrientes/calculadora-sueldo-neto)
+
 ### Pet-Project's
 
 ### Podcast's
@@ -65,3 +67,21 @@ My name is Oleksii, and I'm currently seeking remote (the emphasis, of course, i
 ### Job aggregator
 
 ### Job Board's
+
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/)
+- [Michael Page](https://www.michaelpage.es/)
+- [Well Found](https://wellfound.com/jobs)
+- [Work in Startups](https://workinstartups.com/)
+- [Jobteaser](https://www.jobteaser.com/en)
+- [Glassdoor](https://www.glassdoor.com/)
+- [InDeed](https://es.indeed.com/)
+- [infojobs](https://www.infojobs.net/)
+- [JustJoin](https://justjoin.it/)
+- [My Web3 Jobs](https://myweb3jobs.com/)
+- [Landing Jobs](https://landing.jobs/jobs?hd=false&t_co=false&t_st=false)
+- [No Fluff Jobs](https://nofluffjobs.com/frontend?page=1)
+- [Dev Employ](https://devemploy.com/jobs/mid-level/front-end/react)
+- [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/)
+- [HackerX](https://hackerx.org/jobs/)
+- [Dribbble Jobs](https://dribbble.com/jobs)
+- [Builtin](https://builtin.com/jobs/remote?search=Front-End+Engineer)
