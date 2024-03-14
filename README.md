@@ -24,13 +24,14 @@ My name is Oleksii, and I'm currently seeking remote (the emphasis, of course, i
   - Project Management
   - [Others](#others)
 - Job aggregator
-- Job Board's
+- [Job Board's](#job_boards)
 
 ### Articles
 
 - [5 Time Management Strategies for Remote Software Engineers](./Articles/5-time-managment-strategies.md)
 - [3 Mistakes to Avoid If You Want to Get Hired Remotely](./Articles/3-mistakes-to-avoid.md)
 - [Checklist for writing a resume](./Articles/resume-creating-resume.md)
+- [Finding “Hidden” Remote Jobs with Google Search](./Articles/hidden-remote-jobs.md)
 
 ### Video
 
@@ -66,7 +67,7 @@ My name is Oleksii, and I'm currently seeking remote (the emphasis, of course, i
 
 ### Job aggregator
 
-### Job Board's
+### [Job Board's](#job_boards)
 
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Michael Page](https://www.michaelpage.es/)
