@@ -42,6 +42,16 @@ My name is Oleksii, and I'm currently seeking remote (the emphasis, of course, i
 #### Humor
 
 #### News
+- [Panda](https://app.usepanda.com/)
+- [Digital Ocean](https://www.digitalocean.com/community)
+- [Indie Hackers](https://www.indiehackers.com/)
+- [Hacker Moon](https://hackernoon.com/)
+- [Josh Comeau](https://www.joshwcomeau.com/)
+- [Hacker News](https://news.ycombinator.com/)
+- [CSS Tricks](https://css-tricks.com/)
+- [Kent C. Dodds](https://kentcdodds.com/)
+- [Daily.dev](https://app.daily.dev/)
+- [Smashing Marazine](https://www.smashingmagazine.com/category/javascript/)
 
 ### Resume
 
